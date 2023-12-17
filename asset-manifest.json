@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WEATHER-AP/static/css/main.73d02e19.css",
+    "main.js": "/WEATHER-AP/static/js/main.1a01dff5.js",
+    "static/js/787.b8f6b4c2.chunk.js": "/WEATHER-AP/static/js/787.b8f6b4c2.chunk.js",
+    "static/media/rain.png": "/WEATHER-AP/static/media/rain.8ce5cdf42dcfcad4ad1a.png",
+    "static/media/snow.png": "/WEATHER-AP/static/media/snow.2876796fc9c05ca878f4.png",
+    "static/media/clear.png": "/WEATHER-AP/static/media/clear.245f5f8144a62934210f.png",
+    "static/media/wind.png": "/WEATHER-AP/static/media/wind.fb7e9fd9a6168b0aeb05.png",
+    "static/media/cloud.png": "/WEATHER-AP/static/media/cloud.013c7ed867a539ee009d.png",
+    "static/media/humidity.png": "/WEATHER-AP/static/media/humidity.ad0ac53cbe4e6732ed03.png",
+    "static/media/search.png": "/WEATHER-AP/static/media/search.b2a005e479d3b6015a86.png",
+    "static/media/drizzle.jpeg": "/WEATHER-AP/static/media/drizzle.1426eefd71cfe402caaa.jpeg",
+    "index.html": "/WEATHER-AP/index.html",
+    "main.73d02e19.css.map": "/WEATHER-AP/static/css/main.73d02e19.css.map",
+    "main.1a01dff5.js.map": "/WEATHER-AP/static/js/main.1a01dff5.js.map",
+    "787.b8f6b4c2.chunk.js.map": "/WEATHER-AP/static/js/787.b8f6b4c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d02e19.css",
+    "static/js/main.1a01dff5.js"
+  ]
+}
